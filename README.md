@@ -122,10 +122,7 @@ The dataset includes 50,000 records with the following columns:
     ```
 **Step 2**: Changing "South" to "South South"
 - Some values may be "South," which we want to change to "South South."
-
-**Enter the Formula:**
-- Formula to change `South` to `South South`
-  - In the region column, enter the following formula:
+  - Formula to change `South` to `South South`
    ```excel
    =IF(H2="South", "South South", H2)
    ```
