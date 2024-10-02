@@ -128,7 +128,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-### Other Useful Data Cleaning Processes
+#### Other Useful Data Cleaning Processes
 
 - **Removing duplicates**: To ensure there are no duplicate records, select the dataset and go to **Data** -> **Remove Duplicates**.
 - **Standardizing case**: Ensure consistent capitalization in the `Bank` and `Region` columns by using:
@@ -139,5 +139,42 @@ The dataset includes 50,000 records with the following columns:
 - **Handling inconsistent entries**: For any inconsistencies in categorical data (e.g., different spellings of the same bank), use the `Find and Replace` feature (`Ctrl + H`) to standardize the names.
 
 ---
+
 ## Exploratory Data Analysis (EDA)
+#### Summary Statistics
+
+Below is a summary of key statistics for the dataset, including measures of central tendency, dispersion, and distribution of the CSR spending data across various banks.
+
+| Statistic              | Value                  |
+|------------------------|------------------------|
+| **Total Rows**         | 50,000                 |
+| **Total Columns**      | 6                      |
+| **Distinct Banks**     | 10                     |
+| **Time Period**        | 12 Months              |
+
+#### CSR Spending (₦)
+
+| Metric              | Value            |
+|---------------------|------------------|
+| **Mean (Average)**  | $32,012.72       |
+| **Median**          | $30,824.13       |
+| **Minimum Spending**| $5,000.35        |
+| **Maximum Spending**| $74,991.07       |
+| **Standard Deviation** | $16,731.67       |
+
+#### Beneficiaries by Region
+
+| Region             | Total Beneficiaries | Average Beneficiaries per Bank |
+|--------------------|---------------------|--------------------------------|
+| **South South (SS)** | 17,500               | 1,750                          |
+| **South West (SW)**  | 12,500               | 1,250                          |
+| **North Central (NC)** | 10,000              | 1,000                          |
+| **North West (NW)**  | 8,500                | 850                            |
+| **North East (NE)**  | 7,000                | 700                            |
+| **South East (SE)**  | 9,500                | 950                            |
+
+### Key Insights
+- **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
+- **Beneficiaries:** The **South South** region received the highest number of beneficiaries, followed by **South West**.
+- **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during Q3 and Q4.
 
