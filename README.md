@@ -166,12 +166,12 @@ Below is a summary of key statistics for the dataset, including measures of cent
 
 | Region             | Total Beneficiaries | Average Beneficiaries per Bank |
 |--------------------|---------------------|--------------------------------|
-| **South South (SS)** | 17,500               | 1,750                          |
-| **South West (SW)**  | 12,500               | 1,250                          |
-| **North Central (NC)** | 10,000              | 1,000                          |
-| **North West (NW)**  | 8,500                | 850                            |
-| **North East (NE)**  | 7,000                | 700                            |
-| **South East (SE)**  | 9,500                | 950                            |
+| **South South (SS)** | 11,874,029        | 756                            |
+| **South West (SW)**  | 8,582,222         | 754                            |
+| **North Central (NC)** | 2,327,957       | 507                            |
+| **North West (NW)**  | 2,332,157         | 506                            |
+| **North East (NE)**  | 2,273,751         | 501                            |
+| **South East (SE)**  | 4,672,951         | 509                            |
 
 ### Key Insights
 - **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
