@@ -14,11 +14,10 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Changing Month Abbreviations](#3-changing-month-abbreviations-eg-jan-feb-sep-to-full-month-names)
   - [Splitting the Region Column into Two Separate Columns](#4-splitting-the-region-column-into-two-separate-columns)
   - [Other Useful Data Cleaning Processes](#other-useful-data-cleaning-processes)
-
-### Exploratory Data Analysis (EDA)
-* Summary statistics
-* Data visualization (charts, graphs)
-* Correlations and relationships
+- [Exploratory Data Analysis(EDA)](#exploratory-data-analysis-eda)
+  - [Summary Statistics]
+  - [Data Visualization]
+  - [Correlations and Relationships]
 
 ### Analysis of CSR Spending
 * Total CSR spending
@@ -140,5 +139,5 @@ The dataset includes 50,000 records with the following columns:
 - **Handling inconsistent entries**: For any inconsistencies in categorical data (e.g., different spellings of the same bank), use the `Find and Replace` feature (`Ctrl + H`) to standardize the names.
 
 ---
+## Exploratory Data Analysis (EDA)
 
-This covers the complete data cleaning and preparation process for your CSR dataset in Excel.
