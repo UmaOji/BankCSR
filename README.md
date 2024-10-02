@@ -62,7 +62,7 @@ The dataset used for this analysis is *synthetic* but modeled to reflect realist
 
 The dataset includes 50,000 records with the following columns:
 - **Bank**: The bank responsible for the CSR expenditure.
-- **Month**: The month when the CSR activities occurred (e.g., Jan, Feb, etc.).
+- **Month**: The month when the CSR activities occurred.
 - **Quarter**: The quarter of the year (Q1, Q2, Q3, Q4).
 - **Total_Amount_Spent**: The total amount spent on CSR activities during that period.
 - **Beneficiaries**: The number of individuals benefiting from the CSR activities.
