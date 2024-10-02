@@ -72,6 +72,9 @@ The dataset includes 50,000 records with the following columns:
 ## Data Cleaning and Preparation
 #### 1. Data Loading
 - The CSR dataset is first loaded into Excel using the **Import from Text/CSV** option in the **Data** tab. This process imports the raw dataset for analysis.
+
+---
+
 #### 2. Handling Missing Values
 **Step 1**: Identify missing values
 - To identify missing values in Excel, use conditional formatting:
@@ -79,8 +82,6 @@ The dataset includes 50,000 records with the following columns:
   - Navigate to the **Home** tab -> **Conditional Formatting** -> **New Rule**.
   - Choose **Format only cells that contain**, and select **Blanks**.
   - Apply a format (e.g., a light red fill) to highlight missing values.
-
----
 
 **Step 2**: Handle missing values
 - For columns like `Total_Amount_Spent` or `Beneficiaries`, missing values can be imputed using either the average or median.
