@@ -7,7 +7,7 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Brief Overview of The Project](#brief-overview-of-the-project)
   - [Purpose of The Analysis](#purpose-of-the-analysis)
   - [Data Sources](#data-sources)
-- Data Cleaning and Preparation
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
  - [Data Loading](#data-loading)
  - [Handling missing values](#handling-missing-values)
  - [Outlier detection and treatment]
@@ -76,6 +76,8 @@ The dataset includes 50,000 records with the following columns:
   - Navigate to the **Home** tab -> **Conditional Formatting** -> **New Rule**.
   - Choose **Format only cells that contain**, and select **Blanks**.
   - Apply a format (e.g., a light red fill) to highlight missing values.
+
+---
 
 **Step 2**: Handle missing values
 - For columns like `Total_Amount_Spent` or `Beneficiaries`, missing values can be imputed using either the average or median.
