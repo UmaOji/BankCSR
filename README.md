@@ -10,8 +10,9 @@ This dataset contains information on corporate social responsibility (CSR) spend
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
   - [Data Loading](#1-data-loading)
   - [Handling Missing Values](#2-handling-missing-values)
-  - [Outlier Detection and Treatment](#3-outlier-detection-and-treatment)
-  - [Data Normalization or Standardization](#4-data-normalization-or-standardization)
+  - [Data Normalization or Standardization](#3-data-normalization-or-standardization)
+  - [Changing Month Abbreviations](#4-changing-month-abbreviations-eg-jan-feb-sep-to-full-month-names)
+  - [Splitting the Region Column into Two Separate Columns](#5-splitting-the-region-column-into-two-separate-columns)
   - [Other Useful Data Cleaning Processes](#other-useful-data-cleaning-processes)
 
 ### Exploratory Data Analysis (EDA)
@@ -91,35 +92,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-#### 3. Outlier Detection and Treatment
-
-**Step 1**: Detecting outliers using the **Interquartile Range (IQR) method**.
-- Calculate Q1 (25th percentile) and Q3 (75th percentile) for numerical columns (e.g., `Total_Amount_Spent`).
-  - Formula for Q1:
-    ```excel
-    =PERCENTILE(C:C, 0.25)
-    ```
-  - Formula for Q3:
-    ```excel
-    =PERCENTILE(C:C, 0.75)
-    ```
-- Calculate IQR:
-  ```excel
-  =Q3 - Q1
-  ```
-- Outliers are data points below Q1 - 1.5 * IQR or above Q3 + 1.5 * IQR.
-
-**Step 2**: Handling outliers
-- Replace outliers with the median:
-  - Formula to handle outliers:
-    ```excel
-    =IF(OR(C2<Q1 - 1.5*IQR, C2>Q3 + 1.5*IQR), MEDIAN(C:C), C2)
-    ```
-  - This formula replaces outliers in the `Total_Amount_Spent` column with the median value.
-
----
-
-#### 4. Data Normalization or Standardization
+#### 3. Data Normalization or Standardization
 
 **Step 1**: Normalization using **Min-Max Scaling**
 - To normalize values in the `Total_Amount_Spent` column, you can use Min-Max scaling:
@@ -137,7 +110,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-#### 5. Changing Month Abbreviations (e.g., Jan, Feb, Sep) to Full Month Names
+#### 4. Changing Month Abbreviations (e.g., Jan, Feb, Sep) to Full Month Names
 
 **Step 1**: Create a lookup table
 - Create a table with abbreviated months and full month names in two columns (e.g., `E1:F12`):
@@ -156,7 +129,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-#### 6. Splitting the `Region` Column into Two Separate Columns
+#### 5. Splitting the `Region` Column into Two Separate Columns
 
 **Step 1**: Separate `South` and `(SS)` into two columns
 - The `Region` column contains values like `South (SS)`. To split this into two columns:
