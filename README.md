@@ -15,7 +15,7 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Splitting the Region Column into Two Separate Columns](#4-splitting-the-region-column-into-two-separate-columns)
   - [Other Useful Data Cleaning Processes](#other-useful-data-cleaning-processes)
 - [Exploratory Data Analysis(EDA)](#exploratory-data-analysis-eda)
-  - [Summary Statistics]
+  - [Summary Statistics](#summary-statistics)
   - [Data Visualization]
   - [Correlations and Relationships]
 
