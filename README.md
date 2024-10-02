@@ -11,9 +11,8 @@ This dataset contains information on corporate social responsibility (CSR) spend
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
   - [Data Loading](#1-data-loading)
   - [Handling Missing Values](#2-handling-missing-values)
-  - [Data Normalization or Standardization](#3-data-normalization-or-standardization)
-  - [Changing Month Abbreviations](#4-changing-month-abbreviations-eg-jan-feb-sep-to-full-month-names)
-  - [Splitting the Region Column into Two Separate Columns](#5-splitting-the-region-column-into-two-separate-columns)
+  - [Changing Month Abbreviations](#3-changing-month-abbreviations-eg-jan-feb-sep-to-full-month-names)
+  - [Splitting the Region Column into Two Separate Columns](#4-splitting-the-region-column-into-two-separate-columns)
   - [Other Useful Data Cleaning Processes](#other-useful-data-cleaning-processes)
 
 ### Exploratory Data Analysis (EDA)
@@ -94,25 +93,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-#### 3. Data Normalization or Standardization
-
-**Step 1**: Normalization using **Min-Max Scaling**
-- To normalize values in the `Total_Amount_Spent` column, you can use Min-Max scaling:
-  ```excel
-  = (C2 - MIN(C:C)) / (MAX(C:C) - MIN(C:C))
-  ```
-  This formula transforms values to a range between 0 and 1.
-
-**Step 2**: Standardization using **Z-Score**
-- To standardize the values in `Total_Amount_Spent`:
-  ```excel
-  = (C2 - AVERAGE(C:C)) / STDEV(C:C)
-  ```
-  This formula converts the data into a standard normal distribution (mean 0, standard deviation 1).
-
----
-
-#### 4. Changing Month Abbreviations (e.g., Jan, Feb, Sep) to Full Month Names
+#### 3. Changing Month Abbreviations (e.g., Jan, Feb, Sep) to Full Month Names
 
 **Step 1**: Create a lookup table
 - Create a table with abbreviated months and full month names in two columns (e.g., `E1:F12`):
