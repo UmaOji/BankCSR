@@ -8,10 +8,10 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Purpose of The Analysis](#purpose-of-the-analysis)
   - [Data Sources](#data-sources)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
- - [Data Loading](#data-loading)
- - [Handling missing values](#handling-missing-values)
- - [Outlier detection and treatment]
- - [Data normalization or standardization]
+  - [Data Loading](#data-loading)
+  - [Handling missing values](#handling-missing-values)
+  - [Outlier detection and treatment](#outlier-detection-and-treatment)
+  - [Data normalization or standardization](#data-normalization-or-standardization)
 
 ### Exploratory Data Analysis (EDA)
 * Summary statistics
