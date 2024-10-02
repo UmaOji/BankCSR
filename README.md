@@ -116,17 +116,19 @@ The dataset includes 50,000 records with the following columns:
 
 **Step 1**: Separate `South` and `(SS)` into two columns
 - The `Region` column contains values like `South (SS)`. To split this into two columns:
-  - Formula to extract the first part (`South`):
+    - Formula to extract the first part (`South`):
     ```excel
     =LEFT(F2, FIND("(", F2)-2)
     ```
-  - Formula to extract the second part (`SS`):
-    ```excel
-    =MID(F2, FIND("(", F2)+1, LEN(F2)-FIND("(", F2)-1)
-    ```
-  - The `LEFT` formula extracts the text before the parentheses, and the `MID` formula extracts the text inside the parentheses.
+**Step 2**: Changing "South" to "South South"
+- Some values may be "South," which we want to change to "South South."
 
-**Step 2**: Apply this to all rows to create two separate columns: one for the region name (e.g., "South") and one for the abbreviation (e.g., "SS").
+**Enter the Formula:**
+ - Formula to change `South` to `South South`
+  - In the region column, enter the following formula:
+   ```excel
+   =IF(A2="South", "South South", A2)
+   ```
 
 ---
 
