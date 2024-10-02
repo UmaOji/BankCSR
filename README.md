@@ -112,7 +112,7 @@ The dataset includes 50,000 records with the following columns:
 
 ---
 
-#### 5. Splitting the `Region` Column into Two Separate Columns
+#### 4. Splitting the `Region` Column into Two Separate Columns
 
 **Step 1**: Separate `South` and `(SS)` into two columns
 - The `Region` column contains values like `South (SS)`. To split this into two columns:
