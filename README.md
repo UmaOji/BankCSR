@@ -116,7 +116,7 @@ The dataset includes 50,000 records with the following columns:
 
 **Step 1**: Separate `South` and `(SS)` into two columns
 - The `Region` column contains values like `South (SS)`. To split this into two columns:
-    - Formula to extract the first part (`South`):
+  - Formula to extract the first part (`South`):
     ```excel
     =LEFT(F2, FIND("(", F2)-2)
     ```
