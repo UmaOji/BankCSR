@@ -236,34 +236,34 @@ The total Corporate Social Responsibility (CSR) spending across all banks in the
 #### Spending by Category
 CSR spending is categorized into various sectors, such as education, healthcare, community development, and environmental initiatives. The distribution of spending across these categories helps to understand where banks focus their philanthropic efforts. The following breakdown highlights the spending trends by category:
 
-- **Education**: $323,622,057.15
-- **Healthcare**: $321,990,235.76
-- **Community Development**: $319,483,440.72
-- **Environmental Initiatives**: $314,098,010.68
-- **Financial Initiative**: $321,442,162.88  
+- **Education:** $323,622,057.15
+- **Healthcare:** $321,990,235.76
+- **Community Development:** $319,483,440.72
+- **Environmental Initiatives:** $314,098,010.68
+- **Financial Initiative:** $321,442,162.88  
 This categorization allows for insights into which areas are prioritized and how they align with the broader needs of society.
 
 #### Spending by Bank
 A comparative analysis of CSR spending by individual banks reveals differences in their philanthropic strategies and priorities. Below is the total spending for each bank:
 
 - **Zenith Bank**: $155,298,042.75
-- **Guaranty Trust Bank (GT Bank)**: $160,818,380.10
-- **First Bank of Nigeria**: $161,262,241.80
-- **Ecobank Nigeria**: $162,222,058.41
-- **Wema Bank**: $158,677,861.21
-- **Access Bank**: $159,728,720.21
-- **United Bank of Nigeria**: $160,696,463.70
-- **Diamond Bank**: $163,623,439.51
-- **Union Bank of Nigeria**: $160,190,035.87
-- **Fidelity Bank**: $158,118,663.62  
+- **Guaranty Trust Bank (GT Bank):** $160,818,380.10
+- **First Bank of Nigeria:** $161,262,241.80
+- **Ecobank Nigeria:** $162,222,058.41
+- **Wema Bank:** $158,677,861.21
+- **Access Bank:** $159,728,720.21
+- **United Bank of Nigeria:** $160,696,463.70
+- **Diamond Bank:** $163,623,439.51
+- **Union Bank of Nigeria:** $160,190,035.87
+- **Fidelity Bank:** $158,118,663.62  
 This section illustrates the varying levels of commitment from different banks towards CSR initiatives.
 
 #### Trends Over Time
 Analyzing the trends in CSR spending over time provides insights into how philanthropic priorities shift in response to societal needs and external factors. The data reveals notable trends:
 
-- **Increase in Healthcare Spending**: A significant rise in healthcare-related expenditures, particularly during periods of public health crises, indicates a reactive approach to immediate societal challenges.
-- **Consistent Education Investments**: Education spending remains steady, reflecting a long-term commitment to improving educational access and quality.
-- **Low Environmental Spending**: Environmental initiatives received the lowest total spending among all CSR areas, highlighting that while organizations may recognize sustainability challenges, it is currently not a primary focus in their CSR strategies. There has been a declining trend in Environmental Initiatives with **2023** being the year with its lowest allocation. 
+- **Increase in Healthcare Spending:** A significant rise in healthcare-related expenditures, particularly during periods of public health crises, indicates a reactive approach to immediate societal challenges.
+- **Consistent Education Investments:** Education spending remains steady, reflecting a long-term commitment to improving educational access and quality.
+- **Low Environmental Spending:** Environmental initiatives received the lowest total spending among all CSR areas, highlighting that while organizations may recognize sustainability challenges, it is currently not a primary focus in their CSR strategies. There has been a declining trend in Environmental Initiatives with **2023** being the year with its lowest allocation. 
 
 Overall, the trends indicate a dynamic and responsive approach to CSR spending, influenced by both internal priorities and external circumstances.
 
