@@ -145,7 +145,7 @@ The dataset includes 50,000 records with the following columns:
 ## Exploratory Data Analysis (EDA)
 #### Summary Statistics
 
-Below is a summary of key statistics for the dataset, including measures of central tendency, dispersion, and distribution of the CSR spending data across various banks.
+Below is a summary of key statistics for the dataset:
 
 | Statistic              | Value                  |
 |------------------------|:------------------------:|
