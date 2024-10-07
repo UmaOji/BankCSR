@@ -1,7 +1,7 @@
 # CSR Spending and Beneficiaries: Nigerian Banks
-## About
-###
+## About  
 This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank from 2015 to 2023. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
+
 ## Table of Contents
 - [Introduction](#introduction)
   - [Brief Overview of The Project](#brief-overview-of-the-project)
@@ -29,11 +29,10 @@ This dataset contains information on corporate social responsibility (CSR) spend
 - [Analysis of Beneficiaries](#analysis-of-beneficiaries)
   - [Number of beneficiaries](#number-of-beneficiaries)
   - [Impact of CSR initiatives on beneficiaries](#impact-of-csr-initiatives-on-beneficiaries)
-
-### Conclusion
-* Key findings
-* Limitations of the analysis
-* Recommendations for future research
+- [Conclusion](#conclusion)
+  - [Key Findings](#key-findings)
+  - [Limitations of The Analysis](#limitations-of-the-analysis)
+  - [Recommendations For Future Research](#recommendations-for-future-research)
   
 ## Introduction
 #### Brief Overview of the Project
@@ -154,13 +153,13 @@ Below is a summary of key statistics for the dataset:
 
 #### CSR Spending (₦)
 
-| Metric              | Value            |
+| Metric              | Value              |
 |---------------------|:------------------:|
-| **Mean (Average)**  | $32,012.72       |
-| **Median**          | $30,824.13       |
-| **Minimum Spending**| $5,000.35        |
-| **Maximum Spending**| $74,991.07       |
-| **Standard Deviation** | $16,731.67       |
+| **Mean (Average)**  | $32,012.72         |
+| **Median**          | $30,824.13         |
+| **Minimum Spending**| $5,000.35          |
+| **Maximum Spending**| $74,991.07         |
+| **Standard Deviation** | $16,731.67        |
 
 #### Beneficiaries by Region
 
@@ -168,7 +167,7 @@ Below is a summary of key statistics for the dataset:
 |----------------------|:-------------------:|:------------------------------:|
 | **South South (SS)** | 11,874,029          | 756                            |
 | **South West (SW)**  | 8,582,222           | 754                            |
-| **North Central (NC)** | 2,327,957         | 507                            |
+| **North Central (NC)** | 2,327,957          | 507                            |
 | **North West (NW)**  | 2,332,157           | 506                            |
 | **North East (NE)**  | 2,273,751           | 501                            |
 | **South East (SE)**  | 4,672,951           | 509                            |
@@ -266,11 +265,6 @@ Analyzing the trends in CSR spending over time provides insights into how philan
 Overall, the trends indicate a dynamic and responsive approach to CSR spending, influenced by both internal priorities and external circumstances.
 
 ---
-
-Here's the structured section for **Analysis of Beneficiaries** that includes **Number of Beneficiaries**, **Beneficiary Demographics**, and **Impact of CSR Initiatives on Beneficiaries**:
-
----
-
 ## Analysis of Beneficiaries
 #### Number of Beneficiaries
 The number of beneficiaries impacted by CSR initiatives is a key indicator of the reach and effectiveness of the programs implemented by the banks. Across the dataset, the total number of beneficiaries is **32,063,066**, reflecting the wide range of individuals and communities that have been positively affected by these efforts. Notably, CSR spending tends to correlate with the number of beneficiaries, with higher spending areas, such as healthcare and education, reaching a greater portion of the population.
@@ -285,3 +279,33 @@ While the dataset is synthetic and does not directly provide detailed informatio
 Though the dataset does not explicitly provide outcome data, these insights are inferred from the nature of the CSR areas and their relative spending levels.
 
 ---
+
+Here’s the updated **Conclusion** section with the added information about the absence of data on age, gender, and location in the **Beneficiary Demographics**:
+
+---
+
+## Conclusion
+#### Key Findings
+The analysis of the synthetic Corporate Social Responsibility (CSR) dataset reveals several important trends:
+
+- **Healthcare and Education as Priorities**: A large portion of CSR spending is concentrated in healthcare and education, suggesting that banks are prioritizing these areas as part of their social impact strategies.
+- **Regional Focus**: The South-South (SS) and South-West (SW) regions received the most attention in terms of beneficiaries, while other regions, such as the North-East (NE) and North-West (NW), saw comparatively fewer CSR efforts.
+- **Low Focus on Community Development**: Community development initiatives received the lowest total funding among all CSR areas, indicating that it is not a primary focus for the majority of banks in this dataset.
+
+#### Limitations of the Analysis
+Several limitations of this analysis should be noted:
+
+- **Synthetic Data**: Since the dataset is synthetic, the results are purely illustrative and do not reflect real-world data. This limits the applicability of the analysis to actual CSR trends and impacts.
+- **Absence of Demographic Data**: There was no available data on age, gender, or specific location in the relevant fields of the dataset. This limitation prevented any detailed analysis on the **Beneficiary Demographics**, such as the age or gender distribution of those impacted by CSR initiatives.
+- **Lack of Outcome Data**: The dataset does not include direct measures of the effectiveness or outcomes of CSR spending, such as improved health or educational attainment. The impact assessments are inferred based on spending patterns rather than real beneficiary outcomes.
+- **Granularity of Categories**: The CSR areas are broad, which limits the depth of analysis. For example, breaking down healthcare into subcategories like primary care, vaccination programs, or hospital infrastructure could provide more detailed insights.
+
+#### Recommendations for Future Research
+Based on the analysis, the following recommendations are suggested for future research:
+
+- **Real-World Data Collection**: To enhance the value of the analysis, future research should involve actual CSR data from financial institutions, including detailed outcomes and impact assessments.
+- **More Granular Data**: A more granular breakdown of CSR spending categories would allow for deeper insights into which specific initiatives within education, healthcare, or community development are most effective.
+- **Longitudinal Analysis**: Incorporating a time-series analysis over several years could help track shifts in CSR priorities and their long-term effects on communities and beneficiaries.
+- **Beneficiary Feedback**: Collecting data directly from beneficiaries about how CSR initiatives have impacted their lives would provide a more comprehensive understanding of the social impact.
+- **Inclusion of Demographic Data**: Future datasets should include age, gender, and location information to allow for a more detailed demographic analysis of the beneficiaries and a better understanding of the equity and inclusiveness of CSR programs.
+
