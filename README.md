@@ -130,7 +130,7 @@ The dataset includes 50,000 records with the following columns:
 
 #### Other Useful Data Cleaning Processes
 
-- **Removing duplicates**: To ensure there are no duplicate records, select the dataset and go to **Data** -> **Remove Duplicates**.
+- **Removing duplicates**: To ensure no duplicate records, select the dataset and go to **Data** -> **Remove Duplicates**.
 - **Standardizing case**: Ensure consistent capitalization in the `Bank` and `Region` columns by using:
   ```excel
   =PROPER(A2)
@@ -175,6 +175,6 @@ Below is a summary of key statistics for the dataset, including measures of cent
 
 ### Key Insights
 - **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
-- **Beneficiaries:** The **South South** region received the highest number of beneficiaries, followed by **South West**.
-- **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during Q3 and Q4.
+- **Beneficiaries:** The **South-South** region received the highest number of beneficiaries, followed by **South-West**.
+- **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during Q3.
 
