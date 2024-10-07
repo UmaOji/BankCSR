@@ -21,11 +21,11 @@ This dataset contains information on corporate social responsibility (CSR) spend
     - [Spending Trends Across Banks](#2-spending-trends-across-banks)
     - [Beneficiaries by Region](#3-beneficiaries-by-region)
     - [Spending Trends Across CSR Areas](#4-spending-trends-across-csr-areas-eg-healthcare-education)
-- [Analysis of CSR Spending]()
-  - [Total CSR spending]()
-  - [Spending by category]()
-  - [Spending by bank]
-  - [Trends over time]
+- [Analysis of CSR Spending](#analysis-of-csr-spending)
+  - [Total CSR Spending](#total-csr-spending)
+  - [Spending by Category](#spending-by-category)
+  - [Spending by Bank](#Sending-by-bank)
+  - [Trends over time](#trends-over-time)
 
 ### Analysis of Beneficiaries
 * Number of beneficiaries
@@ -258,7 +258,7 @@ A comparative analysis of CSR spending by individual banks reveals differences i
 - **Fidelity Bank**: $158,118,663.62  
 This section illustrates the varying levels of commitment from different banks towards CSR initiatives.
 
-### Trends Over Time
+#### Trends Over Time
 Analyzing the trends in CSR spending over time provides insights into how philanthropic priorities shift in response to societal needs and external factors. The data reveals notable trends:
 
 - **Increase in Healthcare Spending**: A significant rise in healthcare-related expenditures, particularly during periods of public health crises, indicates a reactive approach to immediate societal challenges.
