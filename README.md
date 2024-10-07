@@ -36,17 +36,17 @@ This dataset contains information on corporate social responsibility (CSR) spend
 * Recommendations for future research
   
 ## Introduction
-### Brief Overview of the Project
+#### Brief Overview of the Project
 This project involves analyzing a large dataset containing corporate social responsibility (CSR) spending data from several leading Nigerian banks. The dataset includes information on CSR activities, including total amounts spent across different months and regions, the number of beneficiaries impacted, and distinctions based on quarterly periods. The analysis focuses on identifying spending patterns, regional distributions of beneficiaries, and seasonal variations in CSR activities to provide valuable insights into the social outreach efforts of these financial institutions.
 
-### Purpose of the Analysis
+#### Purpose of the Analysis
 The purpose of this analysis is to uncover key insights into the CSR efforts of Nigerian banks by exploring:
 - **Spending Patterns**: How CSR expenditures vary across different months, quarters, and regions.
 - **Beneficiary Impact**: Analyzing the number of beneficiaries in different regions and understanding the correlation between spending and beneficiaries.
 - **Seasonal and Regional Trends**: Detecting peaks in spending during key periods such as holidays and summer months, and identifying which regions receive more CSR efforts.
 This analysis aims to help stakeholders understand the social outreach strategies of banks and guide future CSR initiatives to achieve maximum social impact.
 
-### Data Sources
+#### Data Sources
 The dataset used for this analysis is *synthetic* but modeled to reflect realistic CSR spending patterns for 10 major Nigerian banks:
 - Zenith Bank
 - Guaranty Trust Bank (GT Bank)
@@ -66,7 +66,7 @@ The dataset includes 50,000 records with the following columns:
 - **Total_Amount_Spent**: The total amount spent on CSR activities during that period.
 - **Beneficiaries**: The number of individuals benefiting from the CSR activities.
 - **Region**: The region where the CSR activity took place, categorized into North Central (NC), North East (NE), North West (NW), South West (SW), South East (SE), and South South (SS).
-
+---
 ## Data Cleaning and Preparation
 #### 1. Data Loading
 - The CSR dataset is first loaded into Excel using the **Import from Text/CSV** option in the **Data** tab. This process imports the raw dataset for analysis.
@@ -173,16 +173,16 @@ Below is a summary of key statistics for the dataset, including measures of cent
 | **North East (NE)**  | 2,273,751         | 501                            |
 | **South East (SE)**  | 4,672,951         | 509                            |
 
-### Key Insights
+#### Key Insights
 - **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
 - **Beneficiaries:** The **South-South** region received the highest number of beneficiaries, followed by **South-West**.
 - **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during Q3.
 
 ## Correlations and Relationships
 #### 1. CSR Spending Across Quarters (Q1, Q2, Q3, Q4)
-- **Relationship:** Analyzing how CSR spending changes over time can reveal seasonal or cyclical trends, particularly focusing on quarters (Q1, Q2, Q3, Q4).
-- **Analysis:** Calculating the correlation between spending in different quarters can uncover any patterns (e.g., whether high spending in one quarter predicts high spending in another).
-- **Potential Insights:**
+- **Relationship:** Analyzing how CSR spending changes over time will reveal seasonal or cyclical trends, particularly focusing on quarters (Q1, Q2, Q3, Q4).
+- **Analysis:** Calculating the correlation between spending in different quarters will uncover any patterns (e.g., whether high spending in one quarter predicts high spending in another).
+- **Insights:**
   - Positive correlation between **Q3** and **Q4** might suggest consistently high spending during the end of the year, due to summer and holiday activities.
   - Weak or negative correlation between **Q1** and **Q4** may indicate seasonal variations in spending.
 **Example:**
@@ -193,7 +193,7 @@ Below is a summary of key statistics for the dataset, including measures of cent
 #### 2. CSR Spending vs. Beneficiaries
 - **Relationship:** Higher CSR spending may be correlated with an increase in the number of beneficiaries. You can assess if higher expenditures lead to more people benefiting from the CSR activities.
 - **Analysis:** Compute the correlation between the **Total_Amount_Spent** and the **Beneficiaries** column to assess the relationship.
-- **Potential Insights:**
+- **Insights:**
   - A high positive correlation would suggest more spending results in more beneficiaries.
   - A low or no correlation could suggest spending is not always tied directly to beneficiary count (e.g., some high-cost projects may benefit fewer people).
 **Example:**
@@ -204,7 +204,7 @@ Below is a summary of key statistics for the dataset, including measures of cent
 #### 3. CSR Spending by Region
 - **Relationship:** Spending levels might vary by region, revealing trends in how CSR budgets are geographically allocated.
 - **Analysis:** Summarize the total spending per region and compare across all regions to identify patterns in how banks prioritize their CSR activities.
-- **Potential Insights:**
+- **Insights:**
   - South-South (SS) could receive more CSR funding than other regions, followed by South West (SW).
   - Regions with fewer funds and beneficiaries may suggest areas for CSR expansion or greater focus.
 **Example (PivotTable):**
@@ -213,7 +213,7 @@ Summarize Total_Amount_Spent by Region to visualize spending distribution.
 #### 4. Spending Trends Across Banks
 - **Relationship:** Compare how different banks (e.g., Zenith Bank, GT Bank) allocate their CSR budgets to reveal trends or priorities.
 - **Analysis:** Compare the total CSR spending across all banks to identify which banks are more committed to CSR activities.
-- **Potential Insights:**
+- **Insights:**
   - Larger banks like Zenith Bank or GT Bank are likely to spend more on CSR.
   - Similar spending patterns across banks might indicate industry-wide trends or shared priorities.
 **Example (PivotTable):**
@@ -222,7 +222,7 @@ Summarize Total_Amount_Spent by Bank to analyze spending trends.
 #### 5. Beneficiaries by Region
 - **Relationship:** Investigating the number of beneficiaries in each region compared to CSR spending can highlight how resources are distributed.
 - **Analysis:** By correlating the number of beneficiaries with CSR spending, you can assess if certain regions are receiving adequate attention based on their needs.
-- **Potential Insights:**
+- **Insights:**
   - South-South (SS) and South West (SW) are likely to have more beneficiaries due to higher CSR spending.
   - Northern regions may receive fewer beneficiaries if less spending is allocated to them.
 **Example (Excel Formula):**
