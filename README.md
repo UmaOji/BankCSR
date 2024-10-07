@@ -1,7 +1,7 @@
 # Corporate Social Responsibility: Nigerian Banks 
 ## About
 ###
-This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
+This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank from 2015 to 2023. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
 ## Table of Contents
 - [Introduction](#introduction)
   - [Brief Overview of The Project](#brief-overview-of-the-project)
@@ -177,9 +177,9 @@ Below is a summary of key statistics for the dataset, including measures of cent
 | **South East (SE)**  | 4,672,951           | 509                            |
 
 #### Key Insights
-- **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
+- **Highest Spending:** **Q3** has the highest spending across all banks, likely due to summer activities.
 - **Beneficiaries:** The **South-South** region received the highest number of beneficiaries, followed by **South-West**.
-- **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during Q3.
+- **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during **Q3** and least at **Q2**.
 
 ## Correlations and Relationships
 #### 1. CSR Spending by Region
