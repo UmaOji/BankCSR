@@ -24,7 +24,7 @@ This dataset contains information on corporate social responsibility (CSR) spend
 - [Analysis of CSR Spending](#analysis-of-csr-spending)
   - [Total CSR Spending](#total-csr-spending)
   - [Spending by Category](#spending-by-category)
-  - [Spending by Bank](#Sending-by-bank)
+  - [Spending by Bank](#spending-by-bank)
   - [Trends over time](#trends-over-time)
 
 ### Analysis of Beneficiaries
