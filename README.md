@@ -46,7 +46,7 @@ The purpose of this analysis is to uncover key insights into the CSR efforts of 
 This analysis aims to help stakeholders understand the social outreach strategies of banks and guide future CSR initiatives to achieve maximum social impact.
 
 #### Data Sources
-The dataset used for this analysis is *synthetic* but modeled to reflect realistic CSR spending patterns for 10 major Nigerian banks:
+The dataset used for this analysis is *synthetic* but modelled to reflect realistic CSR spending patterns for 10 major Nigerian banks:
 - Zenith Bank
 - Guaranty Trust Bank (GT Bank)
 - First Bank of Nigeria
@@ -262,7 +262,7 @@ Analyzing the trends in CSR spending over time provides insights into how philan
 - **Consistent Education Investments:** Education spending remains steady, reflecting a long-term commitment to improving educational access and quality.
 - **Low Environmental Spending:** Environmental initiatives received the lowest total spending among all CSR areas, highlighting that while organizations may recognize sustainability challenges, it is currently not a primary focus in their CSR strategies. There has been a declining trend in Environmental Initiatives with **2023** being the year with its lowest allocation. 
 
-Overall, the trends indicate a dynamic and responsive approach to CSR spending, influenced by both internal priorities and external circumstances.
+Overall, the trends indicate a dynamic and responsive approach to CSR spending, influenced by internal priorities and external circumstances.
 
 ---
 ## Analysis of Beneficiaries
@@ -280,32 +280,30 @@ Though the dataset does not explicitly provide outcome data, these insights are 
 
 ---
 
-Here’s the updated **Conclusion** section with the added information about the absence of data on age, gender, and location in the **Beneficiary Demographics**:
-
----
-
 ## Conclusion
 #### Key Findings
 The analysis of the synthetic Corporate Social Responsibility (CSR) dataset reveals several important trends:
 
-- **Healthcare and Education as Priorities**: A large portion of CSR spending is concentrated in healthcare and education, suggesting that banks are prioritizing these areas as part of their social impact strategies.
+- **Healthcare and Education as Priorities:** A large portion of CSR spending is concentrated in healthcare and education, suggesting that banks are prioritizing these areas as part of their social impact strategies.
 - **Regional Focus**: The South-South (SS) and South-West (SW) regions received the most attention in terms of beneficiaries, while other regions, such as the North-East (NE) and North-West (NW), saw comparatively fewer CSR efforts.
-- **Low Focus on Community Development**: Community development initiatives received the lowest total funding among all CSR areas, indicating that it is not a primary focus for the majority of banks in this dataset.
+- **Q3 Dominates CSR Spending:** The analysis shows that Q3 had the highest overall CSR spending compared to other quarters. This trend may be attributed to increased social programs or community outreach activities during this period, which may align with corporate planning cycles or strategic initiatives leading up to the year-end.
+- **More Funds Lead to More Beneficiaries:** There is a clear correlation between higher CSR spending and the number of beneficiaries reached. Areas with higher investments, such as healthcare and education, tend to support a larger number of individuals, indicating that greater financial commitment enables broader outreach.
+- **Low Focus on Community Development:** Community development initiatives received the lowest total funding among all CSR areas, indicating that it is not a primary focus for the majority of banks in this dataset.
 
 #### Limitations of the Analysis
 Several limitations of this analysis should be noted:
 
 - **Synthetic Data**: Since the dataset is synthetic, the results are purely illustrative and do not reflect real-world data. This limits the applicability of the analysis to actual CSR trends and impacts.
-- **Absence of Demographic Data**: There was no available data on age, gender, or specific location in the relevant fields of the dataset. This limitation prevented any detailed analysis on the **Beneficiary Demographics**, such as the age or gender distribution of those impacted by CSR initiatives.
-- **Lack of Outcome Data**: The dataset does not include direct measures of the effectiveness or outcomes of CSR spending, such as improved health or educational attainment. The impact assessments are inferred based on spending patterns rather than real beneficiary outcomes.
-- **Granularity of Categories**: The CSR areas are broad, which limits the depth of analysis. For example, breaking down healthcare into subcategories like primary care, vaccination programs, or hospital infrastructure could provide more detailed insights.
+- **Absence of Demographic Data:** There was no available data on age, gender, or specific location in the relevant fields of the dataset. This limitation prevented any detailed analysis of the **Beneficiary Demographics**, such as the age or gender distribution of those impacted by CSR initiatives.
+- **Lack of Outcome Data:** The dataset does not include direct measures of the effectiveness or outcomes of CSR spending, such as improved health or educational attainment. The impact assessments are inferred based on spending patterns rather than real beneficiary outcomes.
+- **Granularity of Categories:** The CSR areas are broad, which limits the depth of analysis. For example, breaking down healthcare into subcategories like primary care, vaccination programs, or hospital infrastructure could provide more detailed insights.
 
 #### Recommendations for Future Research
 Based on the analysis, the following recommendations are suggested for future research:
 
-- **Real-World Data Collection**: To enhance the value of the analysis, future research should involve actual CSR data from financial institutions, including detailed outcomes and impact assessments.
-- **More Granular Data**: A more granular breakdown of CSR spending categories would allow for deeper insights into which specific initiatives within education, healthcare, or community development are most effective.
-- **Longitudinal Analysis**: Incorporating a time-series analysis over several years could help track shifts in CSR priorities and their long-term effects on communities and beneficiaries.
-- **Beneficiary Feedback**: Collecting data directly from beneficiaries about how CSR initiatives have impacted their lives would provide a more comprehensive understanding of the social impact.
-- **Inclusion of Demographic Data**: Future datasets should include age, gender, and location information to allow for a more detailed demographic analysis of the beneficiaries and a better understanding of the equity and inclusiveness of CSR programs.
+- **Real-World Data Collection:** To enhance the value of the analysis, future research should involve actual CSR data from financial institutions, including detailed outcomes and impact assessments.
+- **More Granular Data**: A more granular breakdown of CSR spending categories would allow for deeper insights into which specific initiatives within education, healthcare, or community development are most effective (e.g., "vaccination programs" under healthcare or "scholarships" under education).
+- **Longitudinal Analysis:** Incorporating a time-series analysis over several years could help track shifts in CSR priorities and their long-term effects on communities and beneficiaries.
+- **Beneficiary Feedback:** Collecting data directly from beneficiaries about how CSR initiatives have impacted their lives would provide a more comprehensive understanding of the social impact.
+- **Inclusion of Demographic Data:** Future datasets should include age, gender, and location information to allow for a more detailed demographic analysis of the beneficiaries and a better understanding of the equity and inclusiveness of CSR programs.
 
