@@ -1,4 +1,4 @@
-# CSR Spending and Beneficiaries: Nigerian Banks
+![image](https://github.com/user-attachments/assets/9fad1471-19fe-4e62-ae8c-20381a14eda5)# CSR Spending and Beneficiaries: Nigerian Banks
 ## About
 ###
 This dataset contains information on corporate social responsibility (CSR) spending by major Nigerian banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, Wema Bank, Access Bank, United Bank for Africa (UBA), Diamond Bank, Union Bank of Nigeria, and Fidelity Bank. The dataset tracks quarterly CSR expenditures (Q1, Q2, Q3, and Q4) and the number of beneficiaries impacted by these initiatives over several years.
@@ -21,6 +21,7 @@ This dataset contains information on corporate social responsibility (CSR) spend
     - [CSR Spending by Region](#1-csr-spending-by-region)
     - [Spending Trends Across Banks](#2-spending-trends-across-banks)
     - [Beneficiaries by Region](#3-beneficiaries-by-region)
+    - [Spending Trends Across CSR Areas](#4-spending-trends-across-csr-areas-eg-healthcare-education)
 
 ### Analysis of CSR Spending
 * Total CSR spending
@@ -212,10 +213,16 @@ Summarize Total_Amount_Spent by Bank to analyze spending trends.
 **Example (PivotTable):**  
 Summarize Total_Amount_Spent and Beneficiaries by Region to analyze spending distributions.
 
----
+#### 4. Spending Trends Across CSR Areas (e.g., Healthcare, Education)
+- **Relationship:** The analysis of spending trends across various Corporate Social Responsibility (CSR) areas, such as healthcare, education, environment, and community development, reveals the distinct patterns and priorities of organizations in their philanthropic efforts. By examining the relationship between spending in these areas, we can identify which sectors receive more funding and how this aligns with broader societal needs. 
+- **Analysis:** Compare the total CSR spending across all banks to identify which banks are more committed to CSR activities.
+- **Insights:**
+  - **Healthcare Dominance**: The healthcare sector often receives one of the highest proportions of CSR spending, indicating a strong focus on public health and wellbeing. For example, during a health crisis, such as the COVID-19 pandemic, there is usually a significant spike in healthcare-related expenditures, overshadowing spending in other areas like education or community development. 
+  - **Educational Investments**: Education spending tends to remain consistent with a total of **$323,622,057.15**, highlighting the long-term commitment of organizations to enhance educational opportunities, especially in underserved communities.
+  - **Impact of External Factors**: Spending trends are highly responsive to current events and societal needs, with notable increases in areas like healthcare during crises.
+  - **Emerging Focus Areas**: There is a growing trend towards environmental and community development initiatives, reflecting a shift in organizational priorities towards sustainability and social equity.
 
-#### Example Insights from the CSR Dataset
-- **Seasonal Spending:** A strong positive correlation between Q3 and Q4 may indicate a higher spending pattern during the year's end (e.g., due to holidays).
-- **Regional Focus:** The South-South (SS) region is likely to receive the highest CSR funding, while other regions may require more focus.
-- **Bank Comparison:** Larger banks (e.g., Zenith Bank, GT Bank) are likely to allocate more resources to CSR activities compared to smaller banks.
-- **Beneficiary Distribution:** Higher CSR spending tends to correlate with a higher number of beneficiaries in regions with significant social needs (e.g., South-South and South West)
+**Example (PivotTable):**  
+Summarize Total_Amount_Spent and Beneficiaries by Region to analyze spending distributions.
+
+---
