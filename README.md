@@ -26,11 +26,9 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Spending by Category](#spending-by-category)
   - [Spending by Bank](#spending-by-bank)
   - [Trends over time](#trends-over-time)
-
-### Analysis of Beneficiaries
-* Number of beneficiaries
-* Beneficiary demographics (e.g., age, gender, location)
-* Impact of CSR initiatives on beneficiaries
+- [Analysis of Beneficiaries](#analysis-of-beneficiaries)
+  - [Number of beneficiaries](#number-of-beneficiaries)
+  - [Impact of CSR initiatives on beneficiaries](#impact-of-csr-initiatives-on-beneficiaries)
 
 ### Conclusion
 * Key findings
