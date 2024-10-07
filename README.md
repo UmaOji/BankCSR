@@ -14,10 +14,13 @@ This dataset contains information on corporate social responsibility (CSR) spend
   - [Changing Month Abbreviations](#3-changing-month-abbreviations-eg-jan-feb-sep-to-full-month-names)
   - [Splitting the Region Column into Two Separate Columns](#4-splitting-the-region-column-into-two-separate-columns)
   - [Other Useful Data Cleaning Processes](#other-useful-data-cleaning-processes)
-- [Exploratory Data Analysis(EDA)](#exploratory-data-analysis-eda)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
   - [Summary Statistics](#summary-statistics)
   - [Data Visualization]
-  - [Correlations and Relationships]
+  - [Correlations and Relationships](#correlations-and-relationships)
+    - [CSR Spending by Region](#1-csr-spending-by-region)
+    - [Spending Trends Across Banks](#2-spending-trends-across-banks)
+    - [Beneficiaries by Region](#3-beneficiaries-by-region)
 
 ### Analysis of CSR Spending
 * Total CSR spending
