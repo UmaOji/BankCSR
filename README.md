@@ -188,7 +188,8 @@ Below is a summary of key statistics for the dataset, including measures of cent
 - **Insights:**
   - South-South (SS) receive more CSR funding than other regions, followed by South West (SW).
   - Regions with fewer funds and beneficiaries like North-Central may suggest areas for CSR expansion or greater focus.
-**Example (PivotTable):**
+  
+**Example (PivotTable):**  
 Summarize Total_Amount_Spent by Region to visualize spending distribution.
 
 #### 2. Spending Trends Across Banks
@@ -196,17 +197,19 @@ Summarize Total_Amount_Spent by Region to visualize spending distribution.
 - **Analysis:** Compare the total CSR spending across all banks to identify which banks are more committed to CSR activities.
 - **Insights:**
   - Diamond Bank and Ecobank Bank spend the most on CSR.
-  - Zenith Bank spends the least on CSR. 
-**Example (PivotTable):**
+  - Zenith Bank spends the least on CSR.
+
+**Example (PivotTable):**  
 Summarize Total_Amount_Spent by Bank to analyze spending trends.
 
 #### 3. Beneficiaries by Region
 - **Relationship:** Investigating the number of beneficiaries in each region compared to CSR spending can highlight how resources are distributed.
 - **Analysis:** Compare the number of beneficiaries with CSR spending. This will help assess if certain regions are receiving adequate attention based on their needs.
 - **Insights:**
-  - South-South (SS) and South West (SW) have more beneficiaries due to higher CSR spending with 15,703 and 11,380 beneficiaries respectively.
+  - South-South (SS) and South West (SW) have more beneficiaries due to higher CSR spending with **15,703** and **11,380** beneficiaries respectively.
   - Northern regions have fewer beneficiaries due to fewer funds allocated to them.
-**Example (PivotTable):**
+
+**Example (PivotTable):**  
 Summarize Total_Amount_Spent and Beneficiaries by Region to analyze spending distributions.
 
 ---
