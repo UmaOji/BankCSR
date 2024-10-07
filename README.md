@@ -149,7 +149,7 @@ The dataset includes 50,000 records with the following columns:
 Below is a summary of key statistics for the dataset, including measures of central tendency, dispersion, and distribution of the CSR spending data across various banks.
 
 | Statistic              | Value                  |
-|------------------------|------------------------|
+|------------------------|:------------------------:|
 | **Total Rows**         | 50,000                 |
 | **Total Columns**      | 6                      |
 | **Distinct Banks**     | 10                     |
@@ -158,7 +158,7 @@ Below is a summary of key statistics for the dataset, including measures of cent
 #### CSR Spending (₦)
 
 | Metric              | Value            |
-|---------------------|------------------|
+|---------------------|:------------------:|
 | **Mean (Average)**  | $32,012.72       |
 | **Median**          | $30,824.13       |
 | **Minimum Spending**| $5,000.35        |
@@ -167,14 +167,14 @@ Below is a summary of key statistics for the dataset, including measures of cent
 
 #### Beneficiaries by Region
 
-| Region             | Total Beneficiaries | Average Beneficiaries per Bank |
-|--------------------|---------------------|--------------------------------|
-| **South South (SS)** | 11,874,029        | 756                            |
-| **South West (SW)**  | 8,582,222         | 754                            |
-| **North Central (NC)** | 2,327,957       | 507                            |
-| **North West (NW)**  | 2,332,157         | 506                            |
-| **North East (NE)**  | 2,273,751         | 501                            |
-| **South East (SE)**  | 4,672,951         | 509                            |
+| Region               | Total Beneficiaries | Average Beneficiaries per Bank |
+|----------------------|:-------------------:|:------------------------------:|
+| **South South (SS)** | 11,874,029          | 756                            |
+| **South West (SW)**  | 8,582,222           | 754                            |
+| **North Central (NC)** | 2,327,957         | 507                            |
+| **North West (NW)**  | 2,332,157           | 506                            |
+| **North East (NE)**  | 2,273,751           | 501                            |
+| **South East (SE)**  | 4,672,951           | 509                            |
 
 #### Key Insights
 - **Highest Spending:** Q3 has the highest spending across all banks, likely due to holiday and summer activities.
