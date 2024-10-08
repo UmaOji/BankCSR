@@ -180,6 +180,55 @@ Below is a summary of key statistics for the dataset:
 - **Spending Patterns:** The spending fluctuates throughout the year, with peak spending during **Q3** and least at **Q2**.
   
 ----
+Under the **Data Visualization** subheading of your README file for the CSR dataset, you can outline the following key elements:
+
+---
+
+## Data Visualization
+### Total CSR Spending by Bank
+
+- **Description**: This bar chart compares the total CSR spending across different banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, and others.
+- **Purpose**: To provide a clear comparison of the banks’ contributions to CSR efforts. This helps identify which financial institutions are investing the most in CSR initiatives.
+- **Key Insight**: The chart reveals that Zenith Bank and Access Bank have the highest CSR spending, while smaller banks like Wema Bank contribute less, highlighting differences in CSR commitment.
+- **Image Placement**: ![Bar chart showing total CSR spending by bank](images/total_spending_by_bank.png)
+
+---
+
+### Spending by CSR Area (e.g., Healthcare, Education)
+
+- **Description**: A pie chart or bar chart showing how CSR spending is allocated across different areas such as healthcare, education, community development, and environmental initiatives.
+- **Purpose**: To highlight which CSR areas are prioritized by the banks. This allows for an understanding of which sectors receive the most support and which are underfunded.
+- **Key Insight**: The chart shows that **healthcare** and **education** receive the most funding, while **community development** has the lowest total expenses, reflecting lower priority for community-focused initiatives.
+- **Image Placement**: ![Spending by CSR area](images/spending_by_area.png)
+
+---
+
+### Quarterly CSR Spending Trends
+
+- **Description**: A line graph illustrating CSR spending trends across the four quarters (Q1, Q2, Q3, and Q4).
+- **Purpose**: To identify seasonal spending patterns, such as increased spending during certain quarters. This helps in understanding how CSR funds are distributed over the year.
+- **Key Insight**: The graph shows that **Q3** has the highest CSR spending, possibly due to year-end planning or the culmination of annual projects. Spending drops slightly in Q4 as budgets close.
+- **Image Placement**: ![Line graph showing CSR spending trends by quarter](images/spending_by_quarter.png)
+
+---
+
+### Yearly CSR Spending Trends
+
+- **Description**: A bar chart showing the year-over-year changes in CSR spending, demonstrating trends over multiple years (if applicable).
+- **Purpose**: To analyze how CSR spending has grown or decreased over time. This allows for long-term planning and forecasting of CSR initiatives.
+- **Key Insight**: The data reveals a steady increase in CSR spending year over year, indicating that banks are gradually expanding their corporate social responsibility efforts.
+- **Image Placement**: ![Bar chart showing yearly CSR spending trends](images/yearly_spending_trends.png)
+
+---
+
+### Beneficiary Distribution by Region
+
+- **Description**: A bar chart or heat map representing the distribution of beneficiaries across different regions such as South-South (SS), South-West (SW), North-West (NW), and others.
+- **Purpose**: To show where the majority of CSR beneficiaries are located, which helps assess the regional impact of the banks' CSR efforts.
+- **Key Insight**: The data shows that the **South-South (SS)** and **South-West (SW)** regions have the highest number of beneficiaries, aligning with the areas receiving the most CSR funding.
+- **Image Placement**: ![Beneficiaries by region](images/beneficiaries_by_region.png)
+
+---
 
 ## Correlations and Relationships
 #### 1. CSR Spending by Region
