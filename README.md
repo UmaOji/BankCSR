@@ -187,7 +187,10 @@ Below is a summary of key statistics for the dataset:
 - **Description**: This bar chart compares the total CSR spending across different banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, and others.
 - **Purpose**: To provide a clear comparison of the banks’ contributions to CSR efforts. This helps identify which financial institutions are investing the most in CSR initiatives.
 - **Key Insight**: The chart reveals that Zenith Bank and Access Bank have the highest CSR spending, while smaller banks like Wema Bank contribute less, highlighting differences in CSR commitment.
-- **Image Placement**: ![Bank Total Spend](https://github.com/user-attachments/assets/85037137-4c7d-4a20-a9fd-cab43d74d312)
+- **Image**: ![Bank Total Spend (2)](https://github.com/user-attachments/assets/1814cd98-493b-4020-9b91-6faca52734d0)
+
+
+
 
 
 ---
@@ -197,7 +200,9 @@ Below is a summary of key statistics for the dataset:
 - **Description**: A pie chart or bar chart showing how CSR spending is allocated across different areas such as healthcare, education, community development, and environmental initiatives.
 - **Purpose**: To highlight which CSR areas are prioritized by the banks. This allows for an understanding of which sectors receive the most support and which are underfunded.
 - **Key Insight**: The chart shows that **healthcare** and **education** receive the most funding, while **community development** has the lowest total expenses, reflecting lower priority for community-focused initiatives.
-- **Image Placement**: ![CSRSpending  by Area (2)](https://github.com/user-attachments/assets/c14a0201-e3c0-4d2c-910e-afc310b35081)
+- **Image**: ![CSRSpending  by Area (1)](https://github.com/user-attachments/assets/f64321ab-e2b7-48de-bda9-0c332139ee44)
+
+
 
 
 
@@ -208,7 +213,7 @@ Below is a summary of key statistics for the dataset:
 - **Description**: A line graph illustrating CSR spending trends across the four quarters (Q1, Q2, Q3, and Q4).
 - **Purpose**: To identify seasonal spending patterns, such as increased spending during certain quarters. This helps in understanding how CSR funds are distributed over the year.
 - **Key Insight**: The graph shows that **Q3** has the highest CSR spending, possibly due to year-end planning or the culmination of annual projects. Spending drops slightly in Q4 as budgets close.
-- **Image Placement**: ![CSRSpending by Quaters](https://github.com/user-attachments/assets/2e5a9679-7559-4540-a1c4-891f745cb025)
+- **Image**: ![CSRSpending by Quaters](https://github.com/user-attachments/assets/aa925f47-b9ec-4bc4-97bc-2d0be6a769e4)
 
 
 ---
@@ -218,7 +223,8 @@ Below is a summary of key statistics for the dataset:
 - **Description**: A bar chart showing the year-over-year changes in CSR spending, demonstrating trends over multiple years (if applicable).
 - **Purpose**: To analyze how CSR spending has grown or decreased over time. This allows for long-term planning and forecasting of CSR initiatives.
 - **Key Insight**: The data reveals a steady increase in CSR spending year over year, indicating that banks are gradually expanding their corporate social responsibility efforts.
-- **Image Placement**: ![Yearly CSRSpends](https://github.com/user-attachments/assets/056bd4ef-4d9c-4faa-9b1d-c723c8ca9781)
+- **Image**: ![Yearly CSRSpends (1)](https://github.com/user-attachments/assets/26841ad7-c435-4c6a-9260-c21e4761fff8)
+
 
 ---
 
@@ -227,7 +233,9 @@ Below is a summary of key statistics for the dataset:
 - **Description**: A bar chart or heat map representing the distribution of beneficiaries across different regions such as South-South (SS), South-West (SW), North-West (NW), and others.
 - **Purpose**: To show where the majority of CSR beneficiaries are located, which helps assess the regional impact of the banks' CSR efforts.
 - **Key Insight**: The data shows that the **South-South (SS)** and **South-West (SW)** regions have the highest number of beneficiaries, aligning with the areas receiving the most CSR funding.
-- **Image Placement**: ![Region by Beneficiaries](https://github.com/user-attachments/assets/640aee53-1525-4629-99fb-5988e8b09440)
+- **Image**: ![Region by Beneficiaries](https://github.com/user-attachments/assets/4e333f9e-4da5-4360-a215-bd21d97cfa61)
+
+  
 ---
 
 ## Correlations and Relationships
