@@ -202,29 +202,28 @@ Below is a summary of key statistics for the dataset:
 
 ### Quarterly CSR Spending Trends
 
-- **Description**: A line graph illustrating CSR spending trends across the four quarters (Q1, Q2, Q3, and Q4).
+- **Description**: A bar graph illustrating CSR spending trends across the four quarters (Q1, Q2, Q3, and Q4).
 - **Purpose**: To identify seasonal spending patterns, such as increased spending during certain quarters. This helps in understanding how CSR funds are distributed over the year.
-- **Key Insight**: The graph shows that **Q3** has the highest CSR spending, possibly due to year-end planning or the culmination of annual projects. Spending drops slightly in Q4 as budgets close.
+- **Key Insight**: The graph shows that **Q3** has the highest CSR spending, possibly due to year-end planning or the culmination of annual projects. Spending drops slightly in Q2.
 - **Image**: ![CSRSpending by Quaters](https://github.com/user-attachments/assets/aa925f47-b9ec-4bc4-97bc-2d0be6a769e4)
 
 ---
 
 ### Yearly CSR Spending Trends
 
-- **Description**: A bar chart showing the year-over-year changes in CSR spending, demonstrating trends over multiple years (if applicable).
+- **Description**: A line chart showing the year-over-year changes in CSR spending, demonstrating trends over multiple years.
 - **Purpose**: To analyze how CSR spending has grown or decreased over time. This allows for long-term planning and forecasting of CSR initiatives.
-- **Key Insight**: The data reveals a steady increase in CSR spending year over year, indicating that banks are gradually expanding their corporate social responsibility efforts.
+- **Key Insight**: The data reveals a **continuous decrease** in CSR spending from **2020** to **2023**, indicating that banks are gradually reducing their corporate social responsibility efforts.
 - **Image**: ![Yearly CSRSpends (1)](https://github.com/user-attachments/assets/26841ad7-c435-4c6a-9260-c21e4761fff8)
 
 ---
 
 ### Beneficiary Distribution by Region
 
-- **Description**: A bar chart or heat map representing the distribution of beneficiaries across different regions such as South-South (SS), South-West (SW), North-West (NW), and others.
+- **Description**: A pie chart representing the distribution of beneficiaries across different regions such as South-South (SS), South-West (SW), North-West (NW), and others.
 - **Purpose**: To show where the majority of CSR beneficiaries are located, which helps assess the regional impact of the banks' CSR efforts.
 - **Key Insight**: The data shows that the **South-South (SS)** and **South-West (SW)** regions have the highest number of beneficiaries, aligning with the areas receiving the most CSR funding.
 - **Image**: ![Region by Beneficiaries](https://github.com/user-attachments/assets/4e333f9e-4da5-4360-a215-bd21d97cfa61)
-
   
 ---
 
