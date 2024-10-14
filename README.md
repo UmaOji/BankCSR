@@ -185,26 +185,18 @@ Below is a summary of key statistics for the dataset:
 ### Total CSR Spending by Bank
 
 - **Description**: This bar chart compares the total CSR spending across different banks, including Zenith Bank, Guaranty Trust Bank (GT Bank), First Bank of Nigeria, Ecobank Nigeria, and others.
-- **Purpose**: To provide a clear comparison of the banks’ contributions to CSR efforts. This helps identify which financial institutions are investing the most in CSR initiatives.
-- **Key Insight**: The chart reveals that Zenith Bank and Access Bank have the highest CSR spending, while smaller banks like Wema Bank contribute less, highlighting differences in CSR commitment.
+- **Purpose**: To clearly compare the banks’ contributions to CSR efforts. This helps identify which financial institutions are investing the most in CSR initiatives.
+- **Key Insight**: The chart reveals that **Diamond Bank** and **Zenith Bank** have the **highest** and **lowest** CSR spending respectively. At the same time, other banks like Fidelity Bank contribute less, highlighting differences in CSR commitment.
 - **Image**: ![Bank Total Spend (2)](https://github.com/user-attachments/assets/1814cd98-493b-4020-9b91-6faca52734d0)
-
-
-
-
 
 ---
 
-### Spending by CSR Area (e.g., Healthcare, Education)
+### Yearly Spending by CSR Area (e.g., Healthcare, Education)
 
-- **Description**: A pie chart or bar chart showing how CSR spending is allocated across different areas such as healthcare, education, community development, and environmental initiatives.
-- **Purpose**: To highlight which CSR areas are prioritized by the banks. This allows for an understanding of which sectors receive the most support and which are underfunded.
-- **Key Insight**: The chart shows that **healthcare** and **education** receive the most funding, while **community development** has the lowest total expenses, reflecting lower priority for community-focused initiatives.
+- **Description**: A line chart showing how CSR spending is allocated across different areas such as healthcare, education, community development, and environmental initiatives between 2015 and 2023.
+- **Purpose**: To highlight which CSR areas are prioritized by the banks. This allows for understanding of which sectors receive the most support and which are underfunded.
+- **Key Insight**: The chart shows that **Financial Literacy**, **Education** and **Healthcare** receive the most funding between **2019** and **2021**, while Environment has the lowest total expenses in recent years, reflecting lower priority for environmental-focused initiatives.
 - **Image**: ![CSRSpending  by Area (1)](https://github.com/user-attachments/assets/f64321ab-e2b7-48de-bda9-0c332139ee44)
-
-
-
-
 
 ---
 
@@ -215,7 +207,6 @@ Below is a summary of key statistics for the dataset:
 - **Key Insight**: The graph shows that **Q3** has the highest CSR spending, possibly due to year-end planning or the culmination of annual projects. Spending drops slightly in Q4 as budgets close.
 - **Image**: ![CSRSpending by Quaters](https://github.com/user-attachments/assets/aa925f47-b9ec-4bc4-97bc-2d0be6a769e4)
 
-
 ---
 
 ### Yearly CSR Spending Trends
@@ -224,7 +215,6 @@ Below is a summary of key statistics for the dataset:
 - **Purpose**: To analyze how CSR spending has grown or decreased over time. This allows for long-term planning and forecasting of CSR initiatives.
 - **Key Insight**: The data reveals a steady increase in CSR spending year over year, indicating that banks are gradually expanding their corporate social responsibility efforts.
 - **Image**: ![Yearly CSRSpends (1)](https://github.com/user-attachments/assets/26841ad7-c435-4c6a-9260-c21e4761fff8)
-
 
 ---
 
